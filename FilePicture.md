@@ -30,6 +30,8 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
 
+<center><img src="../../images/convert/model_with_metadata.png" alt="model_with_metadata" width="70%"></center>
+<center>Figure 1. TFLite model with metadata and associated files.</center>
 
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
