@@ -27,9 +27,8 @@ Dillinger est un éditeur HTML5 Markdown compatible avec le cloud, prêt pour le
 - Importez un fichier HTML et regardez-le se convertir comme par magie en Markdown
 - Glissez et déposez des images (nécessite que votre compte Dropbox soit lié)
 
-
 <center></center>
-<img src="../../images/convert/model_with_metadata.png" alt="model_with_metadata" width="70%"> <center>Figure 1. TFLite model with metadata and associated files.</center>
+<img src="../../images/convert/model_with_metadata.png" width="70%" alt="model_with_metadata"><center> Figure 1002. Modèle TFLite avec métadonnées et fichiers associés.</center>
 
 Vous pouvez aussi:
 
